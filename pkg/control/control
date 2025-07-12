@@ -6,4 +6,4 @@ Architecture: arm64
 Depends: libmodal-pipe,libmodal-json,libvoxl-cutils
 Conflicts: 
 Maintainer: chantenghooi@gmail.com
-Description:
+Description: Re-implementation of voxl-cross-template in C++
