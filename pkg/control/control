@@ -1,0 +1,9 @@
+Package: read-imu-cpp-example
+Version: 0.0.1
+Section: base
+Priority: optional
+Architecture: arm64
+Depends: libmodal-pipe,libmodal-json,libvoxl-cutils
+Conflicts: 
+Maintainer: chantenghooi@gmail.com
+Description:

@@ -1,0 +1,13 @@
+.vscode/settings.json
+.vscode/*
+.bash_history
+*.ipk
+*.deb
+build
+build32
+build64
+*.core
+pkg/IPK
+pkg/DEB
+pkg/data    
+.gitconfig
